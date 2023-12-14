@@ -224,6 +224,7 @@ transition-duration: 0.6s;
 }
 
 .data .img{
+    background: url();
     border: 2px solid white;
     width: 50%;
 }
